@@ -1,0 +1,3 @@
+const GET_GREETINGS = 'GET_GREETINGS';
+
+export default GET_GREETINGS;
